@@ -1,0 +1,11 @@
+streamlit>=1.36
+pandas>=2.0
+numpy
+plotly
+pymupdf
+scikit-learn
+joblib
+# Optional Transformer training:
+# torch
+# transformers
+# datasets

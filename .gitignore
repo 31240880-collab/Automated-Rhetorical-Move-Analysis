@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+database/*.db
+models/*
+!models/README.txt
+outputs/*
+!outputs/README.txt
+data/raw/*
+!data/raw/README.txt
